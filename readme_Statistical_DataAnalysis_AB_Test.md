@@ -10,4 +10,7 @@ After initial analysis of the data, there are analyses of user activity and acti
 
 ![Purchase Events Per User](https://raw.githubusercontent.com/daiichigo/assets/master/folder/purchaseeventsperuser.jpg)
 (https://raw.githubusercontent.com/daiichigo/assets/master/Analytics/purchaseeventsperuser.jpg)
+(https://raw.githubusercontent.com/daiichigo/assets/main/Analytics/purchaseeventsperuser.jpg)
+
+
 

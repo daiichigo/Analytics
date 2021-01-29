@@ -9,3 +9,4 @@ This analysis to fortify the chain’s customer retention strategy includes:
 * Feature Analysis
 * Churn reduction measures 
 
+[dataset](https://github.com/daiichigo/Analytics/blob/main/datasets/gym_churn_us.csv)

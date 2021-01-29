@@ -10,4 +10,6 @@ Operators are segmented based on performance on the selected metrics. Relative p
 Operator performance is also analyzed in the context of the time frame in which the data was gathered. 
 
 An html version and a Jupyter notebook of this analysis are in the main branch of this repository. The two telecom datasets can be found in the datasets [folder](https://github.com/daiichigo/Analytics/tree/main/datasets). 
+
+[here](https://nbviewer.jupyter.org/github.com/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis_for_VirtualTelephony_Operator_Efficiency%20(1).ipynb)
     

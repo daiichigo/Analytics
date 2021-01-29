@@ -10,3 +10,5 @@ This analysis to fortify the chain’s customer retention strategy includes:
 * Churn reduction measures 
 
 An html version and a Jupyter notebook of this Forecast & Analysis are in the main branch of this repository. The gym customer record dataset can be found [here](https://github.com/daiichigo/Analytics/blob/main/datasets/gym_churn_us.csv)
+
+The interactive plots and the entire Jupyter notebook can be viewed online [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/ML_Forecast_Predictive_Analytics_.ipynb)

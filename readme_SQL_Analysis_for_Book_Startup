@@ -4,4 +4,4 @@ This database contains tables of books, publishers, authors, reviews and custome
 
 Questions posed by the startup will be addressed in SQL queries about publishers, authors, publication dates, reviews and ratings, including pinpointing the leading publisher issuing books longer than 50 pages and the single author corralling the best ratings of all books with more than 50 ratings.
 
-![Book database tables](https://github.com/daiichigo/assets/blob/main/book_database.png)
+![Book database tables](https://github.com/daiichigo/assets/blob/main/book_start_up_database.png)

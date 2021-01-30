@@ -15,7 +15,7 @@ The three final_ab datasets can be found in the datasets [folder](https://github
 
 🧮 🌈 Interactive plots and the entire Jupyter notebook for this analysis can be found [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Statistical_DataAnalysis_AB_Test_.ipynb)💫
 
-[example][id]
+[example](id)
 [id]: http://squarespace.com/ "Title"
 
 

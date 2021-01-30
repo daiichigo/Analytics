@@ -1,4 +1,4 @@
-SQL Analysis: Book Startup Database
+SQL [Analysis](https://github.com/daiichigo/Analytics/blob/main/assets/book_start_up_database.png): Book Startup Database
 
 This database contains tables of books, publishers, authors, reviews and customer ratings. A startup developing an app catering to bibliophiles is seeking to forge a value proposition.
 

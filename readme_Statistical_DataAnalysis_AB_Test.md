@@ -13,7 +13,7 @@ After initial analysis of the data, there are analyses of user activity and acti
 An html version and a Jupyter notebook of this analysis are in the main branch of this repository. 
 The three final_ab datasets can be found in the datasets [folder](https://github.com/daiichigo/Analytics/tree/main/datasets)
 
-🧮<h5>Interactive plots and the entire Jupyter notebook for this analysis can be found</h> [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Statistical_DataAnalysis_AB_Test_.ipynb)💫
+🧮 🪂🌈 Interactive plots and the entire Jupyter notebook for this analysis can be found[here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Statistical_DataAnalysis_AB_Test_.ipynb)💫
 
 
 

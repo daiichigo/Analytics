@@ -1,6 +1,6 @@
 # Analytics
 
-<!Here is some of the analytics work I've done.>
+The analytics work I've done in this repo is coded with the following:
 
 ### Technologies
 
@@ -25,9 +25,9 @@
 
 ### Access
 
-In the readme files for each project, you'll find a link to view each project online.<br><br>
+In the readme for each project, you'll find a link for viewing online.<br><br>
 In this repo you'll find the Jupyter notebooks and html versions.<br><br>
-The datasets for these projects are in the [folder](https://github.com/daiichigo/Analytics/tree/main/datasets) above.
+Datasets are in the [folder](https://github.com/daiichigo/Analytics/tree/main/datasets) above.
 
 
 

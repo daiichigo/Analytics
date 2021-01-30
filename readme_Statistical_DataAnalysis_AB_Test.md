@@ -1,4 +1,4 @@
-Online Store Conversion: AB Testing Analysis
+Online Store Conversion: AB Testing [Analysis](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Statistical_DataAnalysis_AB_Test_.ipynb)
 
 This analysis covers user behavior at an online retailer.
 
@@ -15,8 +15,6 @@ The three final_ab datasets can be found in the datasets [folder](https://github
 
 🧮 🌈 Interactive plots and the entire Jupyter notebook for this analysis can be found [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Statistical_DataAnalysis_AB_Test_.ipynb)💫
 
-[example](id)
-[id]: http://squarespace.com/ "Title"
 
 
 

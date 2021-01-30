@@ -20,7 +20,7 @@ The analytics work I've done in this repo is coded with the following:
 
 * In [Performance Metrics Analysis](https://github.com/daiichigo/Analytics/blob/main/readme_Performance_Metrics_Analysis_for_VirtualTelephony_Operator_Efficiency.md), efficiency metrics for virtual telephony operators are determined and analyzed. The virtual operators are segmented based on performance on selected metrics and relative performance is evaluated by metrics and by date. Statistical testing is conducted to confirm the efficacy of segmentation.
 <p align="center">
-  <img width="900" src="https://github.com/daiichigo/Analytics/blob/main/assets/operatoractivitycallsperdate.png">
+  <img width="700" src="https://github.com/daiichigo/Analytics/blob/main/assets/operatoractivitycallsperdate.png">
 </p>
 
 ### Access

@@ -1,5 +1,5 @@
     
-Performance_Metrics_Analysis_for_VirtualTelephony_Operator_Efficiency
+Performance Metrics [Analysis] for VirtualTelephony Operator Efficiency(https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis%20VirtualTelephony_Operator%20Efficiency.ipynb)
 
 The purpose of this analysis is to ferret out the ineffective operators from this virtual telephony enterprise. 
 
@@ -11,4 +11,4 @@ Operator performance is also analyzed in the context of the time frame in which 
 
 An html version and a Jupyter notebook of this analysis are in the main branch of this repository. The two telecom datasets can be found in the datasets [folder](https://github.com/daiichigo/Analytics/tree/main/datasets). 
 
-The entire Jupyter notebook can be viewed online [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis%20VirtualTelephony_Operator%20Efficiency.ipynb)💫
+🧮 The entire Jupyter notebook can be viewed online [here](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis%20VirtualTelephony_Operator%20Efficiency.ipynb)💫

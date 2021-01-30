@@ -23,7 +23,7 @@ The analytics work I've done in this repo is coded with the following:
   <img width="700" src="https://github.com/daiichigo/Analytics/blob/main/assets/operatoractivitycallsperdate.png">
 </p>
 
-* [SQL Analysis](https://github.com/daiichigo/Analytics/blob/main/SQL_Analysis_Book_Startup_Database_.ipynb) relies on joins and subqueries in PostgreSQL to explore five tables in a publishing database on behalf of a startup forming a bookselling business venture.
+* [SQL Analysis](https://github.com/daiichigo/Analytics/blob/main/readme_SQL_Analysis_for_Book_Startup.md) relies on joins and subqueries in PostgreSQL to explore five tables in a publishing database on behalf of a startup forming a bookselling business venture.
 <p align="center">
   <img width="400" src="https://github.com/daiichigo/Analytics/blob/main/assets/books.png">
 </p>

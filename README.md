@@ -17,9 +17,13 @@ In this repo you'll find the Jupyter notebooks and html versions.<br><br>
 The datasets for these projects are in the [folder](https://github.com/daiichigo/Analytics/tree/main/datasets) above.
 
 
-In [Statistical Data Analysis](https://github.com/daiichigo/Analytics/blob/main/readme_Statistical_DataAnalysis_AB_Test.md) there are analyses of user activity and activity by date, as well as conversion analysis and statistical analysis of AB testing.
+* In [Statistical Data Analysis](https://github.com/daiichigo/Analytics/blob/main/readme_Statistical_DataAnalysis_AB_Test.md) there are analyses of user activity and activity by date, as well as conversion analysis and statistical analysis of AB testing.
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/Events%20by%20Date.png)
+
+* In [Machine Learning Forecast](https://github.com/daiichigo/Analytics/blob/main/readme_ML_Forecast_Predictive_Analytics.md), classification models are trained and K-Means clustering demonstrated, along with feature analysis and customer churn behavior analysis.
+
+![](https://github.com/daiichigo/Analytics/blob/main/assets/ChurnvStayAgedistribution.png)
 
 
 

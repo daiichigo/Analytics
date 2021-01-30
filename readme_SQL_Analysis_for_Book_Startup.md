@@ -6,4 +6,5 @@ Questions posed by the startup will be addressed in SQL queries about publishers
 
 To view this analysis, click [here](https://github.com/daiichigo/Analytics/blob/main/SQL_Analysis_Book_Startup_Database_.ipynb)
 
-![Book database tables](https://github.com/daiichigo/assets/blob/main/book_start_up_database.png)
+![Book database tables](https://github.com/daiichigo/Analytics/blob/main/assets/book_start_up_database.png)
+

@@ -8,7 +8,7 @@ The AB test assesses whether users improve their conversion rates within 14 days
 
 After initial analysis of the data, there are analyses of user activity and activity by date, as well as conversion analysis and statistical analysis of the AB test.
 
-![Purchase Events Per User](https://github.com/daiichigo/assets/blob/main/purchaseeventsperuser.jpg)
+![Purchase Events Per User](https://github.com/daiichigo/Analytics/blob/main/assets/purchaseeventsperuser.jpg)
 
 An html version and a Jupyter notebook of this analysis are in the main branch of this repository. 
 The three final_ab datasets can be found in the datasets [folder](https://github.com/daiichigo/Analytics/tree/main/datasets)

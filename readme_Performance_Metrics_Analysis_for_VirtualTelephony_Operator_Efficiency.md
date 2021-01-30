@@ -1,5 +1,5 @@
     
-Performance Metrics [Analysis] for VirtualTelephony Operator Efficiency(https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis%20VirtualTelephony_Operator%20Efficiency.ipynb)
+Performance Metrics [Analysis](https://nbviewer.jupyter.org/github/daiichigo/Analytics/blob/main/Performance_Metrics_Analysis%20VirtualTelephony_Operator%20Efficiency.ipynb) for VirtualTelephony Operator Efficiency
 
 The purpose of this analysis is to ferret out the ineffective operators from this virtual telephony enterprise. 
 

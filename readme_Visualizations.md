@@ -6,3 +6,10 @@ This plot is coded in plotly for an analysis of a Los Angeles restaurant databas
 <br>
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/topchains_interactive.gif)
+
+![](https://img.shields.io/badge/-Matplotlib%203.1.3-blue)
+These plots were coded in matplotlib for a historical analysis of the video game market.
+
+![](https://github.com/daiichigo/Analytics/blob/main/assets/salesbyplatform.png)
+
+![](https://github.com/daiichigo/Analytics/blob/main/assets/numberofgamesperyr.png)

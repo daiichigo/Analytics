@@ -15,6 +15,8 @@ The analytics work I've done in this repo is coded with the following:
 ![](https://img.shields.io/badge/-plotly%204.9.0-blue) 
 <br>
 ![](https://img.shields.io/badge/-seaborn%200.10.0-blue)
+<br>
+![](https://img.shields.io/badge/-Cufflinks%200.17.3-blue)
 
 * In [Statistical Data Analysis](https://github.com/daiichigo/Analytics/blob/main/readme_Statistical_DataAnalysis_AB_Test.md) there are analyses of user activity and activity by date, as well as conversion analysis and statistical analysis of AB testing.
 

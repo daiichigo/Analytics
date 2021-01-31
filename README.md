@@ -10,7 +10,7 @@ The analytics work I've done in this repo is coded with the following:
 <br>
 ![](https://img.shields.io/badge/-Tableau%202020.3-blue)
 <br>
-https://img.shields.io/badge/-Matplotlib%203.1.3-blue
+![](https://img.shields.io/badge/-Matplotlib%203.1.3-blue)
 <br>
 ![](https://img.shields.io/badge/-seaborn%200.10.0-blue)
 

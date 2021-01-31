@@ -28,6 +28,8 @@ The analytics work I've done in this repo is coded with the following:
   <img width="400" src="https://github.com/daiichigo/Analytics/blob/main/assets/books.png">
 </p>
 
+* [Visualizations](https://github.com/daiichigo/Analytics/blob/main/readme_Visualizations.md) holds vivid images telling the story of data from various analytical projects.
+
 
 ### Access
 

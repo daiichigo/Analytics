@@ -30,6 +30,8 @@ The analytics work I've done in this repo is coded with the following:
 
 * [Visualizations](https://github.com/daiichigo/Analytics/blob/main/readme_Visualizations.md) holds vivid images telling the story of data from various analytical projects.
 
+![](https://github.com/daiichigo/Analytics/blob/main/assets/chaineateriesbytype.gif)
+
 
 ### Access
 

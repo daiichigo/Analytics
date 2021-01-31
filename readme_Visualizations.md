@@ -14,3 +14,10 @@ These plots were coded in matplotlib for a historical analysis of the video game
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/salesbyplatform.png)
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/numberofgamesperyr.png)
+
+An online publication provided log data for a year's worth of visitors and orders. 
+This graph in matplotlib is part of an analysis of user metrics to optimize marketing expenditures.
+
+![](https://github.com/daiichigo/Analytics/blob/main/assets/dailyactiveusers.png)
+
+

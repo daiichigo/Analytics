@@ -5,6 +5,9 @@ This plot is coded in plotly for an analysis of a Los Angeles restaurant databas
 
 <br>
 
+Cufflinks interactive coding library was used to create this plot for the LA restaurant analysis.
+![](https://github.com/daiichigo/Analytics/blob/main/assets/amt_eateries_per_seating_amt.png)
+
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/topchains_interactive.gif)
 
 ![](https://img.shields.io/badge/-Matplotlib%203.1.3-blue)

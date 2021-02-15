@@ -2,7 +2,7 @@
 
 [](https://github.com/daiichigo/Analytics/blob/main/assets/Avg_week_transact.png)
 
-[](https://github.com/daiichigo/Analytics/blob/main/assets/categ_sales_share_bystore_date.png)
+![](https://github.com/daiichigo/Analytics/blob/main/assets/categsales_share_bystore_date.png)
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/amt_value_wkend_premium_.jpg)
 

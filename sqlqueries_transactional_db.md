@@ -10,6 +10,6 @@
 
 [](https://github.com/daiichigo/Analytics/blob/main/assets/transactbystore_categ.png)
 
-[](https://github.com/daiichigo/Analytics/blob/main/assets/purchaseby_totprice_prodamt_pertransact.png)  
+[](https://github.com/daiichigo/Analytics/blob/main/assets/purchaseby_totprice_prodamt_pertransact.png)   
 
 

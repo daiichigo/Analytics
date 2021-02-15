@@ -1,0 +1,2 @@
+﻿These PostgreSQL queries draw on three tables in a retail database encompassing records of transactions, products and weather during the summer month tracked by the several chains in the database. 
+The question the code seeks to answer appears at the top of each section of code.

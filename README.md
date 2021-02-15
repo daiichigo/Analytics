@@ -24,7 +24,7 @@ The analytics work I've done in this repo is coded with the following:
 
 [](https://github.com/daiichigo/Analytics/blob/main/assets/Events%20by%20Date.png)
 
-* These SQL queries, relying on window functions and CTE, are drawn from an analysis I did of a database holding transactional data for several retail chains and concurrent weather.
+* These [SQL queries](https://github.com/daiichigo/Analytics/blob/main/sqlqueries_transactional_db.md), relying on window functions and CTE, are drawn from an analysis I did of a database holding transactional data for several retail chains and concurrent weather.
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/transact_s.png)
 

@@ -24,6 +24,10 @@ The analytics work I've done in this repo is coded with the following:
 
 [](https://github.com/daiichigo/Analytics/blob/main/assets/Events%20by%20Date.png)
 
+* These SQL queries, relying on window functions and CTE, are drawn from an analysis I did of a database holding transactional data for several retail chains and concurrent weather.
+
+![](https://github.com/daiichigo/Analytics/blob/main/assets/transact.png)
+
 * In [Machine Learning Forecast](https://github.com/daiichigo/Analytics/blob/main/readme_ML_Forecast_Predictive_Analytics.md), classification models are trained and K-Means clustering demonstrated, along with feature analysis and customer churn behavior analysis.
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/ChurnvStayAgedistribution.png)

@@ -14,6 +14,6 @@ Click on image to enlarge the query.
 
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/Avg_week_transact.png)
 
-[](https://github.com/daiichigo/Analytics/blob/main/assets/purchaseby_totprice_prodamt_pertransact.png)   
+![](https://github.com/daiichigo/Analytics/blob/main/assets/purchasebytotprice_prodamt_pertransact.png)   
 
 

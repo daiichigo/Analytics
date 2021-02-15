@@ -8,7 +8,7 @@
 [Click on image](https://github.com/daiichigo/Analytics/blob/main/assets/amt_value_wkend_premium_.jpg) to enlarge the query.
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/amt_value_wkend_premium_.jpg)
 
-Click on image to enlarge the query.
+[Click on image](https://github.com/daiichigo/Analytics/blob/main/assets/changein_totrev_bystore_categ.png) to enlarge the query.
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/changein_totrev_bystore_categ.png)
 
 
